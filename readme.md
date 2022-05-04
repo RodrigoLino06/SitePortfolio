@@ -1,3 +1,3 @@
 ## Site Portfolio
 
-<img src="assets/images/Capturar.png" alt="site">
+<img src="Assets/Images/Capturar.png" alt="site">
